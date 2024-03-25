@@ -1,17 +1,17 @@
 # Arrondi-Digital
 
-Citoyen Connect is a web application designed to streamline administrative services between districts (arrondissements) and citizens. It leverages modern web technologies such as Spring Boot, Spring MVC, Spring Data, React.js, and Tailwind CSS to provide a user-friendly and efficient platform.
+Arrondi-Digital is a web application designed to streamline administrative services between districts (arrondissements) and citizens. It leverages modern web technologies such as Spring Boot, Spring MVC, Spring Data, React.js, and Tailwind CSS to provide a user-friendly and efficient platform.
 
 ## Features
 
 ### 1. Digitalization of Documents
-Citoyen Connect facilitates the digitalization of documents related to egalisation and conformations, ensuring that they are in compliance with legal requirements. Citizens can upload their documents securely through the platform, eliminating the need for physical paperwork.
+Arrondi-Digital facilitates the digitalization of documents related to egalisation and conformations, ensuring that they are in compliance with legal requirements. Citizens can upload their documents securely through the platform, eliminating the need for physical paperwork.
 
 ### 2. Document Conformity Verification
 The application performs automatic verification of document conformity based on predefined standards. This helps in reducing errors and ensures that documents meet the necessary criteria before proceeding further.
 
 ### 3. Confidential Document Generation
-Citoyen Connect generates confidential documents that require the signature of the district administrator. These documents are securely handled within the platform, maintaining privacy and confidentiality.
+Arrondi-Digital generates confidential documents that require the signature of the district administrator. These documents are securely handled within the platform, maintaining privacy and confidentiality.
 
 ### 4. District Administration Interface
 Administrators of districts (arrondissements) have access to a dedicated interface where they can review and sign confidential documents. This interface provides tools for efficient document management and ensures smooth administrative processes.
@@ -26,13 +26,13 @@ Administrators of districts (arrondissements) have access to a dedicated interfa
 
 ## Getting Started
 
-To run Citoyen Connect locally, follow these steps:
+To run Arrondi-Digital locally, follow these steps:
 
 1. Clone the repository:
 git clone https://github.com/MeriemFattah/Arrondi-Digital
 
 2. Navigate to the project directory:
-cd CitoyenConnect
+cd Arrondi-Digital
 
 3. Install dependencies for both backend : 'mvn install' and frontend: 'npm install'
 
